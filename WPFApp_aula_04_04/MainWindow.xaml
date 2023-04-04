@@ -61,6 +61,7 @@
         <StackPanel Grid.Row="2" Grid.Column="1" 
                     Orientation="Horizontal">
                 <Button>Teste</Button>
+                <Button>Teste 2</Button>
             
         </StackPanel>
     </Grid>
