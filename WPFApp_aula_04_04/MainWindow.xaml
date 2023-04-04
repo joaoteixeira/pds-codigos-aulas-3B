@@ -60,6 +60,7 @@
 
         <StackPanel Grid.Row="2" Grid.Column="1" 
                     Orientation="Horizontal">
+                <Button>Teste</Button>
             
         </StackPanel>
     </Grid>
